@@ -22,3 +22,7 @@ What is the result of merging two branches together? Why do we represent it in t
 
 it is a new line of two in one.
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+automatic cannot distinguish between same code. manual we have to choose the right code.
+
